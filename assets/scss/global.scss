@@ -1,0 +1,15 @@
+@import "libs/normalize";
+
+$blue: gold;
+
+
+.container { 
+	background: $blue;
+	height: 400px;
+	width: 100%;
+	color: white;
+	padding: 50px;
+	p { 
+		font-size: 400%;
+	}
+}
